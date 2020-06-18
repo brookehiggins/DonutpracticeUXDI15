@@ -1,16 +1,16 @@
-@@media onlyscreen and (max-width:600px) {
-    body{
+@media onlyscreen and (max-width:600px) {
+  body{
     background: purple;
-    }
-    img{
-      width: 100%
-    }
-.btn {
-  background-color: green;
-  color: white;
-  border-radius: 14px;
-}
-}
-body{
-  background-color: lightyellow;
+  }
+  img{
+    width: 100%
+  }
+  .btn {
+    background-color: green;
+    color: white;
+    border-radius: 14px;
+  }
+  body{
+    background-color: lightyellow;
+  }
 }
