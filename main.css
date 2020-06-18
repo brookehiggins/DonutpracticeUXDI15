@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  background-color: mistyrose;
+}
+h2{
+  color: darkturquoise;
+}
+.container img{
+    width: auto;
+    height: 300px
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-circle {
+  border-radius: 60%
+}
+ol{
+  text-align: left;
+  padding-left: 550px
+}
